@@ -1,0 +1,215 @@
+{
+  "uid" : "7c066610a27a18c7",
+  "name" : "SC2A Hint IT @SC2A | {\"articlenumber\":\"FA012000001\"}",
+  "fullName" : "Check if product name is available for SC2A compatible products:.SC2A Hint IT @SC2A | {\"articlenumber\":\"FA012000001\"}",
+  "historyId" : "d134cec84c206061c78eada5a92b891b",
+  "time" : {
+    "start" : 1626767118008,
+    "stop" : 1626767132757,
+    "duration" : 14749
+  },
+  "description" : "tests if the SC2A hint is displayed",
+  "descriptionHtml" : "<p>tests if the SC2A hint is displayed</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "I cookie login \"c442126d-46af-4cac-a93d-ffb1b442a256@mailslurp.com\", \"12345abcde!\", \"IT\"",
+      "time" : {
+        "start" : 1626767120094,
+        "stop" : 1626767128293,
+        "duration" : 8199
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "I wait url equals \"https://r2.connect.stihl.com/#/dashboard\"",
+      "time" : {
+        "start" : 1626767128293,
+        "stop" : 1626767128305,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "I am on page \"https://r2.connect.stihl.com/#/products/machine\"",
+      "time" : {
+        "start" : 1626767128305,
+        "stop" : 1626767128541,
+        "duration" : 236
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "I wait for element addProductButton, 30",
+      "time" : {
+        "start" : 1626767128542,
+        "stop" : 1626767130163,
+        "duration" : 1621
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "I click addProductButton",
+      "time" : {
+        "start" : 1626767130163,
+        "stop" : 1626767130508,
+        "duration" : 345
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "I click addStihlProductButton",
+      "time" : {
+        "start" : 1626767130508,
+        "stop" : 1626767130981,
+        "duration" : 473
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "I fill field articleNumberInput, \"FA012000001\"",
+      "time" : {
+        "start" : 1626767130981,
+        "stop" : 1626767131901,
+        "duration" : 920
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "I click nextButton",
+      "time" : {
+        "start" : 1626767131901,
+        "stop" : 1626767132152,
+        "duration" : 251
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "I wait for element internalNameInput, 20",
+      "time" : {
+        "start" : 1626767132152,
+        "stop" : 1626767132725,
+        "duration" : 573
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "I check if not empty productNameField",
+      "time" : {
+        "start" : 1626767132725,
+        "stop" : 1626767132757,
+        "duration" : 32
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 10,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "story",
+    "value" : "the IT user wants to see that the product is SC2A compatible"
+  }, {
+    "name" : "tag",
+    "value" : "@SC2A"
+  }, {
+    "name" : "suite",
+    "value" : "Check if product name is available for SC2A compatible products:"
+  }, {
+    "name" : "testClass",
+    "value" : "Check if product name is available for SC2A compatible products:"
+  }, {
+    "name" : "testMethod",
+    "value" : "SC2A Hint IT @SC2A | {\"articlenumber\":\"FA012000001\"}"
+  }, {
+    "name" : "package",
+    "value" : "Check if product name is available for SC2A compatible products:"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "@SC2A" ]
+  },
+  "source" : "7c066610a27a18c7.json",
+  "parameterValues" : [ ]
+}

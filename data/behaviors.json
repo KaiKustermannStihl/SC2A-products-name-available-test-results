@@ -1,0 +1,1454 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "the DE user wants to see that the product is SC2A compatible",
+    "children" : [ {
+      "name" : "SC2A Hint DE @SC2A | {\"articlenumber\":\"FA020116800\"}",
+      "uid" : "4facbdc4fcf8a483",
+      "parentUid" : "920007ab78613efe42e916eadbce133f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626765864501,
+        "stop" : 1626766425011,
+        "duration" : 560510
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint DE @SC2A | {\"articlenumber\":\"FA012000001\"}",
+      "uid" : "6bf24c1f1823e641",
+      "parentUid" : "920007ab78613efe42e916eadbce133f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626766425568,
+        "stop" : 1626766438426,
+        "duration" : 12858
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint DE @SC2A | {\"articlenumber\":\"HA042000001\"}",
+      "uid" : "c02ca8c512ccced0",
+      "parentUid" : "920007ab78613efe42e916eadbce133f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626766438904,
+        "stop" : 1626766452456,
+        "duration" : 13552
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint DE @SC2A | {\"articlenumber\":48690113540}",
+      "uid" : "7efbe362ae69a344",
+      "parentUid" : "920007ab78613efe42e916eadbce133f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626766452918,
+        "stop" : 1626766466488,
+        "duration" : 13570
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint DE @SC2A | {\"articlenumber\":\"LA012000002\"}",
+      "uid" : "80313ca2e9a8fb5f",
+      "parentUid" : "920007ab78613efe42e916eadbce133f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626766466921,
+        "stop" : 1626766480721,
+        "duration" : 13800
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "920007ab78613efe42e916eadbce133f"
+  }, {
+    "name" : "the US user wants to see that the product is SC2A compatible",
+    "children" : [ {
+      "name" : "SC2A Hint US @SC2A | {\"articlenumber\":\"FA020116800\"}",
+      "uid" : "2344f8cb0db6ad12",
+      "parentUid" : "a5f8b461efd7c760d04982d6b7257ac3",
+      "status" : "failed",
+      "time" : {
+        "start" : 1626766481227,
+        "stop" : 1626766512081,
+        "duration" : 30854
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint US @SC2A | {\"articlenumber\":\"FA012000001\"}",
+      "uid" : "f7156705035660ef",
+      "parentUid" : "a5f8b461efd7c760d04982d6b7257ac3",
+      "status" : "failed",
+      "time" : {
+        "start" : 1626766512847,
+        "stop" : 1626766539649,
+        "duration" : 26802
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint US @SC2A | {\"articlenumber\":\"HA042000001\"}",
+      "uid" : "486a2f8686dc9470",
+      "parentUid" : "a5f8b461efd7c760d04982d6b7257ac3",
+      "status" : "failed",
+      "time" : {
+        "start" : 1626766540712,
+        "stop" : 1626766565634,
+        "duration" : 24922
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint US @SC2A | {\"articlenumber\":48690113540}",
+      "uid" : "88f762447436ffcf",
+      "parentUid" : "a5f8b461efd7c760d04982d6b7257ac3",
+      "status" : "failed",
+      "time" : {
+        "start" : 1626766566506,
+        "stop" : 1626766606726,
+        "duration" : 40220
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint US @SC2A | {\"articlenumber\":\"LA012000002\"}",
+      "uid" : "9cfb4833f771d6f0",
+      "parentUid" : "a5f8b461efd7c760d04982d6b7257ac3",
+      "status" : "failed",
+      "time" : {
+        "start" : 1626766607788,
+        "stop" : 1626766633724,
+        "duration" : 25936
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a5f8b461efd7c760d04982d6b7257ac3"
+  }, {
+    "name" : "the AT user wants to see that the product is SC2A compatible",
+    "children" : [ {
+      "name" : "SC2A Hint AT @SC2A | {\"articlenumber\":\"FA020116800\"}",
+      "uid" : "a0b071d2be25a54",
+      "parentUid" : "bf846f0d834925101e3cc3c102453218",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626766634500,
+        "stop" : 1626766656155,
+        "duration" : 21655
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint AT @SC2A | {\"articlenumber\":\"FA012000001\"}",
+      "uid" : "108bbdf50fffb184",
+      "parentUid" : "bf846f0d834925101e3cc3c102453218",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626766656656,
+        "stop" : 1626766673157,
+        "duration" : 16501
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint AT @SC2A | {\"articlenumber\":\"HA042000001\"}",
+      "uid" : "9112ec36b49dcd1",
+      "parentUid" : "bf846f0d834925101e3cc3c102453218",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626766673535,
+        "stop" : 1626766686334,
+        "duration" : 12799
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint AT @SC2A | {\"articlenumber\":48690113540}",
+      "uid" : "655790cb3695813d",
+      "parentUid" : "bf846f0d834925101e3cc3c102453218",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626766686750,
+        "stop" : 1626766700077,
+        "duration" : 13327
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint AT @SC2A | {\"articlenumber\":\"LA012000002\"}",
+      "uid" : "d881dce6519f7c2f",
+      "parentUid" : "bf846f0d834925101e3cc3c102453218",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626766700778,
+        "stop" : 1626766715393,
+        "duration" : 14615
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "bf846f0d834925101e3cc3c102453218"
+  }, {
+    "name" : "the AU user wants to see that the product is SC2A compatible",
+    "children" : [ {
+      "name" : "SC2A Hint AU @SC2A | {\"articlenumber\":\"FA020116800\"}",
+      "uid" : "a91c1d11cce90890",
+      "parentUid" : "bb7c44d777ff863268fcdf4c0bcbecb6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626766716117,
+        "stop" : 1626766736044,
+        "duration" : 19927
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint AU @SC2A | {\"articlenumber\":\"FA012000001\"}",
+      "uid" : "55aeb306510d178e",
+      "parentUid" : "bb7c44d777ff863268fcdf4c0bcbecb6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626766736716,
+        "stop" : 1626766749831,
+        "duration" : 13115
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint AU @SC2A | {\"articlenumber\":\"HA042000001\"}",
+      "uid" : "7803f1ec3b175692",
+      "parentUid" : "bb7c44d777ff863268fcdf4c0bcbecb6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626766750263,
+        "stop" : 1626766763535,
+        "duration" : 13272
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint AU @SC2A | {\"articlenumber\":48690113540}",
+      "uid" : "fd5858b51992b34d",
+      "parentUid" : "bb7c44d777ff863268fcdf4c0bcbecb6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626766764013,
+        "stop" : 1626766776476,
+        "duration" : 12463
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint AU @SC2A | {\"articlenumber\":\"LA012000002\"}",
+      "uid" : "541ee6ef70bb5bcc",
+      "parentUid" : "bb7c44d777ff863268fcdf4c0bcbecb6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626766776932,
+        "stop" : 1626766791028,
+        "duration" : 14096
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "bb7c44d777ff863268fcdf4c0bcbecb6"
+  }, {
+    "name" : "the CA user wants to see that the product is SC2A compatible",
+    "children" : [ {
+      "name" : "SC2A Hint CA @SC2A | {\"articlenumber\":\"FA020116800\"}",
+      "uid" : "7831bfdaa7502568",
+      "parentUid" : "22275b8a0c1bbe4c7181b05a085bcff2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626766791467,
+        "stop" : 1626766810791,
+        "duration" : 19324
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint CA @SC2A | {\"articlenumber\":\"FA012000001\"}",
+      "uid" : "ce85bcd8ccfda998",
+      "parentUid" : "22275b8a0c1bbe4c7181b05a085bcff2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626766811157,
+        "stop" : 1626766823881,
+        "duration" : 12724
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint CA @SC2A | {\"articlenumber\":\"HA042000001\"}",
+      "uid" : "bd282a309d893e3c",
+      "parentUid" : "22275b8a0c1bbe4c7181b05a085bcff2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626766824546,
+        "stop" : 1626766839214,
+        "duration" : 14668
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint CA @SC2A | {\"articlenumber\":48690113540}",
+      "uid" : "904f736575ed18b4",
+      "parentUid" : "22275b8a0c1bbe4c7181b05a085bcff2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626766839700,
+        "stop" : 1626766852099,
+        "duration" : 12399
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint CA @SC2A | {\"articlenumber\":\"LA012000002\"}",
+      "uid" : "6487e2ade0c3f87a",
+      "parentUid" : "22275b8a0c1bbe4c7181b05a085bcff2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626766852585,
+        "stop" : 1626766864959,
+        "duration" : 12374
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "22275b8a0c1bbe4c7181b05a085bcff2"
+  }, {
+    "name" : "the DK user wants to see that the product is SC2A compatible",
+    "children" : [ {
+      "name" : "SC2A Hint DK @SC2A | {\"articlenumber\":\"FA020116800\"}",
+      "uid" : "69d3dc4b2ad7455d",
+      "parentUid" : "f75f0240f51f3cb54038fb7e91f7d051",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626766865352,
+        "stop" : 1626766885267,
+        "duration" : 19915
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint DK @SC2A | {\"articlenumber\":\"FA012000001\"}",
+      "uid" : "a0e35755315c21af",
+      "parentUid" : "f75f0240f51f3cb54038fb7e91f7d051",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626766885755,
+        "stop" : 1626766898599,
+        "duration" : 12844
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint DK @SC2A | {\"articlenumber\":\"HA042000001\"}",
+      "uid" : "ed646507822e7484",
+      "parentUid" : "f75f0240f51f3cb54038fb7e91f7d051",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626766899030,
+        "stop" : 1626766912081,
+        "duration" : 13051
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint DK @SC2A | {\"articlenumber\":48690113540}",
+      "uid" : "2a1fb8344f7e4718",
+      "parentUid" : "f75f0240f51f3cb54038fb7e91f7d051",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626766912503,
+        "stop" : 1626766925574,
+        "duration" : 13071
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint DK @SC2A | {\"articlenumber\":\"LA012000002\"}",
+      "uid" : "19c412b2cc44bd58",
+      "parentUid" : "f75f0240f51f3cb54038fb7e91f7d051",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626766926031,
+        "stop" : 1626766940133,
+        "duration" : 14102
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "f75f0240f51f3cb54038fb7e91f7d051"
+  }, {
+    "name" : "the FI user wants to see that the product is SC2A compatible",
+    "children" : [ {
+      "name" : "SC2A Hint FI @SC2A | {\"articlenumber\":\"FA020116800\"}",
+      "uid" : "83d1528687ef4fe",
+      "parentUid" : "671cd3d90b752996c86648728972c09d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626766940497,
+        "stop" : 1626766959846,
+        "duration" : 19349
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint FI @SC2A | {\"articlenumber\":\"FA012000001\"}",
+      "uid" : "fe244ccccc7ba2af",
+      "parentUid" : "671cd3d90b752996c86648728972c09d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626766960295,
+        "stop" : 1626766972961,
+        "duration" : 12666
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint FI @SC2A | {\"articlenumber\":\"HA042000001\"}",
+      "uid" : "72183c17b2e5e972",
+      "parentUid" : "671cd3d90b752996c86648728972c09d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626766973408,
+        "stop" : 1626766988039,
+        "duration" : 14631
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint FI @SC2A | {\"articlenumber\":48690113540}",
+      "uid" : "1952a9aa9b3edf98",
+      "parentUid" : "671cd3d90b752996c86648728972c09d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626766988449,
+        "stop" : 1626767004972,
+        "duration" : 16523
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint FI @SC2A | {\"articlenumber\":\"LA012000002\"}",
+      "uid" : "358ed7bf2d0d829",
+      "parentUid" : "671cd3d90b752996c86648728972c09d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767005590,
+        "stop" : 1626767022713,
+        "duration" : 17123
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "671cd3d90b752996c86648728972c09d"
+  }, {
+    "name" : "the FR user wants to see that the product is SC2A compatible",
+    "children" : [ {
+      "name" : "SC2A Hint FR @SC2A | {\"articlenumber\":\"FA020116800\"}",
+      "uid" : "adfd5744bc64d0da",
+      "parentUid" : "859e32864d9ff64cdfc8939504c0062e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767023079,
+        "stop" : 1626767042762,
+        "duration" : 19683
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint FR @SC2A | {\"articlenumber\":\"FA012000001\"}",
+      "uid" : "b92b3424c79ab330",
+      "parentUid" : "859e32864d9ff64cdfc8939504c0062e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767043212,
+        "stop" : 1626767056777,
+        "duration" : 13565
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint FR @SC2A | {\"articlenumber\":\"HA042000001\"}",
+      "uid" : "b143b05ca07abfc4",
+      "parentUid" : "859e32864d9ff64cdfc8939504c0062e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767057177,
+        "stop" : 1626767070690,
+        "duration" : 13513
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint FR @SC2A | {\"articlenumber\":48690113540}",
+      "uid" : "6a98f8f50c94c8ad",
+      "parentUid" : "859e32864d9ff64cdfc8939504c0062e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767071039,
+        "stop" : 1626767085083,
+        "duration" : 14044
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint FR @SC2A | {\"articlenumber\":\"LA012000002\"}",
+      "uid" : "4bf1c10db2c84a3",
+      "parentUid" : "859e32864d9ff64cdfc8939504c0062e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767085467,
+        "stop" : 1626767097890,
+        "duration" : 12423
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "859e32864d9ff64cdfc8939504c0062e"
+  }, {
+    "name" : "the IT user wants to see that the product is SC2A compatible",
+    "children" : [ {
+      "name" : "SC2A Hint IT @SC2A | {\"articlenumber\":\"FA020116800\"}",
+      "uid" : "5787725dc1b15349",
+      "parentUid" : "4b3d4b7ced8e53829ff468e199cfc353",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767098447,
+        "stop" : 1626767117611,
+        "duration" : 19164
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint IT @SC2A | {\"articlenumber\":\"FA012000001\"}",
+      "uid" : "7c066610a27a18c7",
+      "parentUid" : "4b3d4b7ced8e53829ff468e199cfc353",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767118008,
+        "stop" : 1626767132757,
+        "duration" : 14749
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint IT @SC2A | {\"articlenumber\":\"HA042000001\"}",
+      "uid" : "13c3bfa84357489c",
+      "parentUid" : "4b3d4b7ced8e53829ff468e199cfc353",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767133402,
+        "stop" : 1626767147097,
+        "duration" : 13695
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint IT @SC2A | {\"articlenumber\":48690113540}",
+      "uid" : "48ff2948b455eff4",
+      "parentUid" : "4b3d4b7ced8e53829ff468e199cfc353",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767147459,
+        "stop" : 1626767160659,
+        "duration" : 13200
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint IT @SC2A | {\"articlenumber\":\"LA012000002\"}",
+      "uid" : "47f235e4b770b4ed",
+      "parentUid" : "4b3d4b7ced8e53829ff468e199cfc353",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767161120,
+        "stop" : 1626767173297,
+        "duration" : 12177
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "4b3d4b7ced8e53829ff468e199cfc353"
+  }, {
+    "name" : "the LT user wants to see that the product is SC2A compatible",
+    "children" : [ {
+      "name" : "SC2A Hint LT @SC2A | {\"articlenumber\":\"FA020116800\"}",
+      "uid" : "30991d3d44082e9e",
+      "parentUid" : "0f485e9c0ea2a950f340d47e54fa59c3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767176842,
+        "stop" : 1626767195539,
+        "duration" : 18697
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint LT @SC2A | {\"articlenumber\":\"FA012000001\"}",
+      "uid" : "5b8beb79bcc0658",
+      "parentUid" : "0f485e9c0ea2a950f340d47e54fa59c3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767195901,
+        "stop" : 1626767339487,
+        "duration" : 143586
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint LT @SC2A | {\"articlenumber\":\"HA042000001\"}",
+      "uid" : "6a4f8449c6738766",
+      "parentUid" : "0f485e9c0ea2a950f340d47e54fa59c3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767340159,
+        "stop" : 1626767360717,
+        "duration" : 20558
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint LT @SC2A | {\"articlenumber\":48690113540}",
+      "uid" : "ae475ce409027317",
+      "parentUid" : "0f485e9c0ea2a950f340d47e54fa59c3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767361109,
+        "stop" : 1626767376015,
+        "duration" : 14906
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint LT @SC2A | {\"articlenumber\":\"LA012000002\"}",
+      "uid" : "4a97eda0c88a8e40",
+      "parentUid" : "0f485e9c0ea2a950f340d47e54fa59c3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767376429,
+        "stop" : 1626767396329,
+        "duration" : 19900
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "0f485e9c0ea2a950f340d47e54fa59c3"
+  }, {
+    "name" : "the LU user wants to see that the product is SC2A compatible",
+    "children" : [ {
+      "name" : "SC2A Hint LU @SC2A | {\"articlenumber\":\"FA020116800\"}",
+      "uid" : "ad4247b5992919a1",
+      "parentUid" : "da4a9c43b3d329c42a6c3fe332224069",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767396706,
+        "stop" : 1626767422288,
+        "duration" : 25582
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint LU @SC2A | {\"articlenumber\":\"FA012000001\"}",
+      "uid" : "b4445c0db24f5fc6",
+      "parentUid" : "da4a9c43b3d329c42a6c3fe332224069",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767422711,
+        "stop" : 1626767441437,
+        "duration" : 18726
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint LU @SC2A | {\"articlenumber\":\"HA042000001\"}",
+      "uid" : "4c4c32aa642153f4",
+      "parentUid" : "da4a9c43b3d329c42a6c3fe332224069",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767441838,
+        "stop" : 1626767457330,
+        "duration" : 15492
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint LU @SC2A | {\"articlenumber\":48690113540}",
+      "uid" : "d78c171dd7720d18",
+      "parentUid" : "da4a9c43b3d329c42a6c3fe332224069",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767457739,
+        "stop" : 1626767471926,
+        "duration" : 14187
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint LU @SC2A | {\"articlenumber\":\"LA012000002\"}",
+      "uid" : "24a7d84d71a0dee2",
+      "parentUid" : "da4a9c43b3d329c42a6c3fe332224069",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767472397,
+        "stop" : 1626767490335,
+        "duration" : 17938
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "da4a9c43b3d329c42a6c3fe332224069"
+  }, {
+    "name" : "the NL user wants to see that the product is SC2A compatible",
+    "children" : [ {
+      "name" : "SC2A Hint NL @SC2A | {\"articlenumber\":\"FA020116800\"}",
+      "uid" : "3d865a62c8321067",
+      "parentUid" : "616cc197ea04ba902edaebc17577ea2b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767490695,
+        "stop" : 1626767509192,
+        "duration" : 18497
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint NL @SC2A | {\"articlenumber\":\"FA012000001\"}",
+      "uid" : "325cc67afe2790c6",
+      "parentUid" : "616cc197ea04ba902edaebc17577ea2b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767509853,
+        "stop" : 1626767522716,
+        "duration" : 12863
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint NL @SC2A | {\"articlenumber\":\"HA042000001\"}",
+      "uid" : "ae6bbbfb00b95997",
+      "parentUid" : "616cc197ea04ba902edaebc17577ea2b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767523402,
+        "stop" : 1626767537027,
+        "duration" : 13625
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint NL @SC2A | {\"articlenumber\":48690113540}",
+      "uid" : "7953938d097fbafd",
+      "parentUid" : "616cc197ea04ba902edaebc17577ea2b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767537487,
+        "stop" : 1626767551487,
+        "duration" : 14000
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint NL @SC2A | {\"articlenumber\":\"LA012000002\"}",
+      "uid" : "8ed86ef88154830e",
+      "parentUid" : "616cc197ea04ba902edaebc17577ea2b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767551881,
+        "stop" : 1626767565400,
+        "duration" : 13519
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "616cc197ea04ba902edaebc17577ea2b"
+  }, {
+    "name" : "the NZ user wants to see that the product is SC2A compatible",
+    "children" : [ {
+      "name" : "SC2A Hint NZ @SC2A | {\"articlenumber\":\"FA020116800\"}",
+      "uid" : "126db62a15b5fd50",
+      "parentUid" : "fa144182b354aa204934b44717110131",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767566079,
+        "stop" : 1626767585479,
+        "duration" : 19400
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint NZ @SC2A | {\"articlenumber\":\"FA012000001\"}",
+      "uid" : "5e1182645b087247",
+      "parentUid" : "fa144182b354aa204934b44717110131",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767586148,
+        "stop" : 1626767661414,
+        "duration" : 75266
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint NZ @SC2A | {\"articlenumber\":\"HA042000001\"}",
+      "uid" : "773b9d2326e73c0e",
+      "parentUid" : "fa144182b354aa204934b44717110131",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767661856,
+        "stop" : 1626767677928,
+        "duration" : 16072
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint NZ @SC2A | {\"articlenumber\":48690113540}",
+      "uid" : "f9f3748e554875d",
+      "parentUid" : "fa144182b354aa204934b44717110131",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767678299,
+        "stop" : 1626767691490,
+        "duration" : 13191
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint NZ @SC2A | {\"articlenumber\":\"LA012000002\"}",
+      "uid" : "3e1c9391d18e02f0",
+      "parentUid" : "fa144182b354aa204934b44717110131",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767691962,
+        "stop" : 1626767707882,
+        "duration" : 15920
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "fa144182b354aa204934b44717110131"
+  }, {
+    "name" : "the NO user wants to see that the product is SC2A compatible",
+    "children" : [ {
+      "name" : "SC2A Hint NO @SC2A | {\"articlenumber\":\"FA020116800\"}",
+      "uid" : "49a7fb56237115ee",
+      "parentUid" : "6d53297264b536957cbd3a458c70f599",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767708572,
+        "stop" : 1626767727815,
+        "duration" : 19243
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint NO @SC2A | {\"articlenumber\":\"FA012000001\"}",
+      "uid" : "d721c4da545ad6e6",
+      "parentUid" : "6d53297264b536957cbd3a458c70f599",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767728226,
+        "stop" : 1626767741685,
+        "duration" : 13459
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint NO @SC2A | {\"articlenumber\":\"HA042000001\"}",
+      "uid" : "9f48dacd11bb2825",
+      "parentUid" : "6d53297264b536957cbd3a458c70f599",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767742115,
+        "stop" : 1626767755805,
+        "duration" : 13690
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint NO @SC2A | {\"articlenumber\":48690113540}",
+      "uid" : "a7764bf3d6e64dac",
+      "parentUid" : "6d53297264b536957cbd3a458c70f599",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767756264,
+        "stop" : 1626767771202,
+        "duration" : 14938
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint NO @SC2A | {\"articlenumber\":\"LA012000002\"}",
+      "uid" : "8c057650eef0693f",
+      "parentUid" : "6d53297264b536957cbd3a458c70f599",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767771875,
+        "stop" : 1626767787704,
+        "duration" : 15829
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "6d53297264b536957cbd3a458c70f599"
+  }, {
+    "name" : "the PL user wants to see that the product is SC2A compatible",
+    "children" : [ {
+      "name" : "SC2A Hint PL @SC2A | {\"articlenumber\":\"FA020116800\"}",
+      "uid" : "94f9dfb2062eea",
+      "parentUid" : "f0189e48b259e266edca463b8533fe47",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767788187,
+        "stop" : 1626767808376,
+        "duration" : 20189
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint PL @SC2A | {\"articlenumber\":\"FA012000001\"}",
+      "uid" : "6e36a90d9d35fa4b",
+      "parentUid" : "f0189e48b259e266edca463b8533fe47",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767808835,
+        "stop" : 1626767822939,
+        "duration" : 14104
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint PL @SC2A | {\"articlenumber\":\"HA042000001\"}",
+      "uid" : "ee8366c56b7feaf9",
+      "parentUid" : "f0189e48b259e266edca463b8533fe47",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767823305,
+        "stop" : 1626767837718,
+        "duration" : 14413
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint PL @SC2A | {\"articlenumber\":48690113540}",
+      "uid" : "5db41121e8fa9dc4",
+      "parentUid" : "f0189e48b259e266edca463b8533fe47",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767838171,
+        "stop" : 1626767853661,
+        "duration" : 15490
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint PL @SC2A | {\"articlenumber\":\"LA012000002\"}",
+      "uid" : "bde489309f018c22",
+      "parentUid" : "f0189e48b259e266edca463b8533fe47",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767854081,
+        "stop" : 1626767868594,
+        "duration" : 14513
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "f0189e48b259e266edca463b8533fe47"
+  }, {
+    "name" : "the PT user wants to see that the product is SC2A compatible",
+    "children" : [ {
+      "name" : "SC2A Hint PT @SC2A | {\"articlenumber\":\"FA020116800\"}",
+      "uid" : "474c5462bd1339f7",
+      "parentUid" : "2d4c510cb6f64958347092d384cc32d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767868911,
+        "stop" : 1626767889217,
+        "duration" : 20306
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint PT @SC2A | {\"articlenumber\":\"FA012000001\"}",
+      "uid" : "d45ea9b598b3becd",
+      "parentUid" : "2d4c510cb6f64958347092d384cc32d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767889826,
+        "stop" : 1626767903178,
+        "duration" : 13352
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint PT @SC2A | {\"articlenumber\":\"HA042000001\"}",
+      "uid" : "5ff8a47a5e1fee65",
+      "parentUid" : "2d4c510cb6f64958347092d384cc32d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767903735,
+        "stop" : 1626767916774,
+        "duration" : 13039
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint PT @SC2A | {\"articlenumber\":48690113540}",
+      "uid" : "8a6c367ae8990455",
+      "parentUid" : "2d4c510cb6f64958347092d384cc32d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767917364,
+        "stop" : 1626767930353,
+        "duration" : 12989
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint PT @SC2A | {\"articlenumber\":\"LA012000002\"}",
+      "uid" : "6ea5a10658434b91",
+      "parentUid" : "2d4c510cb6f64958347092d384cc32d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767930752,
+        "stop" : 1626767944377,
+        "duration" : 13625
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "2d4c510cb6f64958347092d384cc32d9"
+  }, {
+    "name" : "the ZA user wants to see that the product is SC2A compatible",
+    "children" : [ {
+      "name" : "SC2A Hint ZA @SC2A | {\"articlenumber\":\"FA020116800\"}",
+      "uid" : "371cb874beb8fc35",
+      "parentUid" : "2274e7b3155aea53b46c40a5d8173ead",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767944716,
+        "stop" : 1626767966851,
+        "duration" : 22135
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint ZA @SC2A | {\"articlenumber\":\"FA012000001\"}",
+      "uid" : "71aaad726c465d4c",
+      "parentUid" : "2274e7b3155aea53b46c40a5d8173ead",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767967503,
+        "stop" : 1626767981632,
+        "duration" : 14129
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint ZA @SC2A | {\"articlenumber\":\"HA042000001\"}",
+      "uid" : "24066de1b2e261ad",
+      "parentUid" : "2274e7b3155aea53b46c40a5d8173ead",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767981947,
+        "stop" : 1626767995838,
+        "duration" : 13891
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint ZA @SC2A | {\"articlenumber\":48690113540}",
+      "uid" : "dcf749fbbc35743b",
+      "parentUid" : "2274e7b3155aea53b46c40a5d8173ead",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626767996286,
+        "stop" : 1626768010391,
+        "duration" : 14105
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint ZA @SC2A | {\"articlenumber\":\"LA012000002\"}",
+      "uid" : "9d65eb373073cb74",
+      "parentUid" : "2274e7b3155aea53b46c40a5d8173ead",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626768011037,
+        "stop" : 1626768025426,
+        "duration" : 14389
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "2274e7b3155aea53b46c40a5d8173ead"
+  }, {
+    "name" : "the ES user wants to see that the product is SC2A compatible",
+    "children" : [ {
+      "name" : "SC2A Hint ES @SC2A | {\"articlenumber\":\"FA020116800\"}",
+      "uid" : "e68f553b6bdc390b",
+      "parentUid" : "2165c42d82d6068c0560126275cf9def",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626768026030,
+        "stop" : 1626768047102,
+        "duration" : 21072
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint ES @SC2A | {\"articlenumber\":\"FA012000001\"}",
+      "uid" : "19cfdf61e90ef067",
+      "parentUid" : "2165c42d82d6068c0560126275cf9def",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626768047712,
+        "stop" : 1626768061861,
+        "duration" : 14149
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint ES @SC2A | {\"articlenumber\":\"HA042000001\"}",
+      "uid" : "7a34230aa3cceba1",
+      "parentUid" : "2165c42d82d6068c0560126275cf9def",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626768062182,
+        "stop" : 1626768076047,
+        "duration" : 13865
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint ES @SC2A | {\"articlenumber\":48690113540}",
+      "uid" : "4a97f0c89da5ad4b",
+      "parentUid" : "2165c42d82d6068c0560126275cf9def",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626768076700,
+        "stop" : 1626768091024,
+        "duration" : 14324
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint ES @SC2A | {\"articlenumber\":\"LA012000002\"}",
+      "uid" : "a27f15e68cae258d",
+      "parentUid" : "2165c42d82d6068c0560126275cf9def",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626768091401,
+        "stop" : 1626768105155,
+        "duration" : 13754
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "2165c42d82d6068c0560126275cf9def"
+  }, {
+    "name" : "the SE user wants to see that the product is SC2A compatible",
+    "children" : [ {
+      "name" : "SC2A Hint SE @SC2A | {\"articlenumber\":\"FA020116800\"}",
+      "uid" : "f8839e219d89897",
+      "parentUid" : "02476f16282ccd64e77839e7630eba49",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626768105473,
+        "stop" : 1626768123419,
+        "duration" : 17946
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint SE @SC2A | {\"articlenumber\":\"FA012000001\"}",
+      "uid" : "15dc455fdd5d6d73",
+      "parentUid" : "02476f16282ccd64e77839e7630eba49",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626768123826,
+        "stop" : 1626768135859,
+        "duration" : 12033
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint SE @SC2A | {\"articlenumber\":\"HA042000001\"}",
+      "uid" : "f13a7c60c0372b38",
+      "parentUid" : "02476f16282ccd64e77839e7630eba49",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626768136142,
+        "stop" : 1626768150723,
+        "duration" : 14581
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint SE @SC2A | {\"articlenumber\":48690113540}",
+      "uid" : "bdf3ec479f252aab",
+      "parentUid" : "02476f16282ccd64e77839e7630eba49",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626768151109,
+        "stop" : 1626768167489,
+        "duration" : 16380
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint SE @SC2A | {\"articlenumber\":\"LA012000002\"}",
+      "uid" : "e12d8f04ba889274",
+      "parentUid" : "02476f16282ccd64e77839e7630eba49",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626768167997,
+        "stop" : 1626768182934,
+        "duration" : 14937
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "02476f16282ccd64e77839e7630eba49"
+  }, {
+    "name" : "the CH user wants to see that the product is SC2A compatible",
+    "children" : [ {
+      "name" : "SC2A Hint CH @SC2A | {\"articlenumber\":\"FA020116800\"}",
+      "uid" : "68342baf291ef2ed",
+      "parentUid" : "965b679bf09d810547b2bab0f9ca028b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626768183479,
+        "stop" : 1626768202453,
+        "duration" : 18974
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint CH @SC2A | {\"articlenumber\":\"FA012000001\"}",
+      "uid" : "cc6d461f6271975a",
+      "parentUid" : "965b679bf09d810547b2bab0f9ca028b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626768202824,
+        "stop" : 1626768216776,
+        "duration" : 13952
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint CH @SC2A | {\"articlenumber\":\"HA042000001\"}",
+      "uid" : "63afd3d14c761779",
+      "parentUid" : "965b679bf09d810547b2bab0f9ca028b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626768217391,
+        "stop" : 1626768230647,
+        "duration" : 13256
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint CH @SC2A | {\"articlenumber\":48690113540}",
+      "uid" : "29b9b3aad19569c8",
+      "parentUid" : "965b679bf09d810547b2bab0f9ca028b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626768230980,
+        "stop" : 1626768245221,
+        "duration" : 14241
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint CH @SC2A | {\"articlenumber\":\"LA012000002\"}",
+      "uid" : "17a9eb4ccad12968",
+      "parentUid" : "965b679bf09d810547b2bab0f9ca028b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626768245573,
+        "stop" : 1626768259001,
+        "duration" : 13428
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "965b679bf09d810547b2bab0f9ca028b"
+  }, {
+    "name" : "the GB user wants to see that the product is SC2A compatible",
+    "children" : [ {
+      "name" : "SC2A Hint GB @SC2A | {\"articlenumber\":\"FA020116800\"}",
+      "uid" : "3a44ef77876d4932",
+      "parentUid" : "ce1b4de33e4952dd259e25dfc56c173a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626768259366,
+        "stop" : 1626768283178,
+        "duration" : 23812
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint GB @SC2A | {\"articlenumber\":\"FA012000001\"}",
+      "uid" : "ff1904473ebdffb5",
+      "parentUid" : "ce1b4de33e4952dd259e25dfc56c173a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626768283707,
+        "stop" : 1626768297057,
+        "duration" : 13350
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint GB @SC2A | {\"articlenumber\":\"HA042000001\"}",
+      "uid" : "2303202a496cc486",
+      "parentUid" : "ce1b4de33e4952dd259e25dfc56c173a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626768297647,
+        "stop" : 1626768309918,
+        "duration" : 12271
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint GB @SC2A | {\"articlenumber\":48690113540}",
+      "uid" : "499257b6ed6d14c6",
+      "parentUid" : "ce1b4de33e4952dd259e25dfc56c173a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626768310346,
+        "stop" : 1626768323769,
+        "duration" : 13423
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "SC2A Hint GB @SC2A | {\"articlenumber\":\"LA012000002\"}",
+      "uid" : "a5b8fca6d8e69371",
+      "parentUid" : "ce1b4de33e4952dd259e25dfc56c173a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626768324122,
+        "stop" : 1626768337630,
+        "duration" : 13508
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "ce1b4de33e4952dd259e25dfc56c173a"
+  } ]
+}

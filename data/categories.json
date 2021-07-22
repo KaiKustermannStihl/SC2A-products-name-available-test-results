@@ -1,0 +1,82 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "The product name is wrong. It is \"(STIHL Product)\" but should be the actual product name",
+      "children" : [ {
+        "name" : "SC2A Hint US @SC2A | {\"articlenumber\":\"FA020116800\"}",
+        "uid" : "2344f8cb0db6ad12",
+        "parentUid" : "a80a6e55a74063b416cf4fffb00c6ee5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1626766481227,
+          "stop" : 1626766512081,
+          "duration" : 30854
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "SC2A Hint US @SC2A | {\"articlenumber\":\"FA012000001\"}",
+        "uid" : "f7156705035660ef",
+        "parentUid" : "a80a6e55a74063b416cf4fffb00c6ee5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1626766512847,
+          "stop" : 1626766539649,
+          "duration" : 26802
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "SC2A Hint US @SC2A | {\"articlenumber\":\"HA042000001\"}",
+        "uid" : "486a2f8686dc9470",
+        "parentUid" : "a80a6e55a74063b416cf4fffb00c6ee5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1626766540712,
+          "stop" : 1626766565634,
+          "duration" : 24922
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "SC2A Hint US @SC2A | {\"articlenumber\":\"LA012000002\"}",
+        "uid" : "9cfb4833f771d6f0",
+        "parentUid" : "a80a6e55a74063b416cf4fffb00c6ee5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1626766607788,
+          "stop" : 1626766633724,
+          "duration" : 25936
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a80a6e55a74063b416cf4fffb00c6ee5"
+    }, {
+      "name" : "element (internalNameInput) still not present on page after 20 sec\n                page.waitForSelector: Timeout 20000ms exceeded.\n                =========================== logs ===========================\n                waiting for selector \"#input_internal-description_product-add-dialog\"\n                ============================================================\n                Note: use DEBUG=pw:api environment variable to capture Playwright logs.",
+      "children" : [ {
+        "name" : "SC2A Hint US @SC2A | {\"articlenumber\":48690113540}",
+        "uid" : "88f762447436ffcf",
+        "parentUid" : "f37ac70d426dc89bb56434c9284bc2f6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1626766566506,
+          "stop" : 1626766606726,
+          "duration" : 40220
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f37ac70d426dc89bb56434c9284bc2f6"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

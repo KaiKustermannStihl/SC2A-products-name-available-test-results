@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "79b9ced0e0780067ab13d56c36cd9697",
+    "name" : "Check if product name is available for SC2A compatible products:",
+    "statistic" : {
+      "failed" : 5,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 100,
+      "unknown" : 0,
+      "total" : 105
+    }
+  } ]
+}

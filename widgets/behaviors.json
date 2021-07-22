@@ -1,0 +1,114 @@
+{
+  "total" : 21,
+  "items" : [ {
+    "uid" : "a5f8b461efd7c760d04982d6b7257ac3",
+    "name" : "the US user wants to see that the product is SC2A compatible",
+    "statistic" : {
+      "failed" : 5,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 5
+    }
+  }, {
+    "uid" : "920007ab78613efe42e916eadbce133f",
+    "name" : "the DE user wants to see that the product is SC2A compatible",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  }, {
+    "uid" : "bf846f0d834925101e3cc3c102453218",
+    "name" : "the AT user wants to see that the product is SC2A compatible",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  }, {
+    "uid" : "bb7c44d777ff863268fcdf4c0bcbecb6",
+    "name" : "the AU user wants to see that the product is SC2A compatible",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  }, {
+    "uid" : "22275b8a0c1bbe4c7181b05a085bcff2",
+    "name" : "the CA user wants to see that the product is SC2A compatible",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  }, {
+    "uid" : "f75f0240f51f3cb54038fb7e91f7d051",
+    "name" : "the DK user wants to see that the product is SC2A compatible",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  }, {
+    "uid" : "671cd3d90b752996c86648728972c09d",
+    "name" : "the FI user wants to see that the product is SC2A compatible",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  }, {
+    "uid" : "859e32864d9ff64cdfc8939504c0062e",
+    "name" : "the FR user wants to see that the product is SC2A compatible",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  }, {
+    "uid" : "4b3d4b7ced8e53829ff468e199cfc353",
+    "name" : "the IT user wants to see that the product is SC2A compatible",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  }, {
+    "uid" : "0f485e9c0ea2a950f340d47e54fa59c3",
+    "name" : "the LT user wants to see that the product is SC2A compatible",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  } ]
+}
